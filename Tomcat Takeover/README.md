@@ -10,7 +10,5 @@
 - COMANDO Y CONTROL → TA0011 → T1071.001
 
 > [!NOTE]
-> **Recomiendo descargar el archivo "Desarollo - Tomcat Takeover.pdf" para una mejor visualizacion al momento de revisar el documento.**
+> **Puedes descargar los archivos "Desarollo - Tomcat Takeover.pdf" y "SEC-Analyst_Tomcat Takeover_Informe.pdf"**
 
-
-¡Completé con éxito el laboratorio del equipo azul Tomcat Takeover en @CyberDefenders! https://cyberdefenders.org/blueteam-ctf-challenges/achievements/Sebanalyst/tomcat-takeover/
