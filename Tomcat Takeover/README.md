@@ -10,5 +10,5 @@
 - COMANDO Y CONTROL → TA0011 → T1071.001
 
 > [!NOTE]
-> **Puedes descargar los archivos "Desarollo - Tomcat Takeover.pdf" y "SEC-Analyst_Tomcat Takeover_Informe.pdf"**
+> **El desarollo e informe de este laboratorio se encuentran subidos en formato PDF**
 
