@@ -1,3 +1,3 @@
-# Analisis_de_registros_(Logs)
+# Analisis de Registros (Logs)
 > [!NOTE]
 > **El desarollo e informe de los laboratorios se encuentran subidos en formato PDF**
